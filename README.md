@@ -4,3 +4,4 @@ List of tools build with javascript
 
 - [hyperterm](https://hyperterm.org/) - [source](https://github.com/zeit/hyperterm)
 - [atom](https://atom.io/) - [source](https://hyperterm.org/)
+- slap - [source](https://github.com/slap-editor/slap)

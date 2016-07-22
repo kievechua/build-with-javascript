@@ -17,6 +17,12 @@ List of tools build with javascript
 * [medis](http://getmedis.com/) - [</>](https://github.com/luin/medis) - Redis
 
 
+## Native app builder
+
+* [Electron](http://electron.atom.io/) - [</>](https://github.com/electron/electron)
+* [NW.js](http://nwjs.io/) - [</>](https://github.com/nwjs/nw.js)
+
+
 ## Package Managers
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for javascript.
